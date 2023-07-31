@@ -9,7 +9,7 @@
 - 🔭 Currently in search and realization of projects  
   
 
-- 🌱 I’m currently specializing more in back-end and cybersecurity.  
+- 🌱 I’m currently specializing more in back-end  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
